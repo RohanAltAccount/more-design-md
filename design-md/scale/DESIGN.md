@@ -1,3 +1,4 @@
+--
 version: alpha
 name: Scale-design-analysis
 description: A high-trust, editorial-technical interface system for Scale AI. The system is black-and-white first, with restrained nature-inspired brand colors, large regular-weight grotesk typography, mono detail labels, cinematic evidence-led photography, and operational product surfaces. The visual language should feel composed, mission-critical, and real — never speculative, neon, or generically futuristic. Scale 2.0 uses Aeonik as the single brand typeface, Aeonik Mono for literal and machine-readable detail, a triangular up-and-right symbol, and a design philosophy of evidence over atmosphere.
