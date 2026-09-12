@@ -1,4 +1,4 @@
-My own adaptation of the DESIGN.md library for agents that includes a few more website design analyses that I found interesting.
+My own adaptation of the DESIGN.md library for agents that includes a few more website design analyses that I found interesting. Will continue to expand as I find more.
 
 # Awesome DESIGN.md
 
