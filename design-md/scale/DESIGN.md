@@ -171,47 +171,47 @@ Brand Personality
 
 Scale should feel:
 
-authoritative
+- authoritative
 
-composed
+- composed
 
-operational
+- operational
 
-exact
+- exact
 
-editorial
+- editorial
 
-technically credible
+- technically credible
 
-mission-aware
+- mission-aware
 
-globally serious
+- globally serious
 
-human-accountable
+- human-accountable
 
-understated rather than flashy
+- understated rather than flashy
 
 Scale should not feel:
 
-playful
+- playful
 
-consumer-app-like
+- consumer-app-like
 
-whimsical
+- whimsical
 
-crypto-adjacent
+- crypto-adjacent
 
-sci-fi
+- sci-fi
 
-glossy-futurist
+- glossy-futurist
 
-neon
+- neon
 
-over-animated
+- over-animated
 
-startup-cute
+- startup-cute
 
-aggressively sales-driven
+- aggressively sales-driven
 
 Core Visual Signature
 
@@ -239,13 +239,13 @@ White — {colors.white} — #FFFFFF
 
 Primary page canvas. Use for:
 
-primary site background
+- primary site background
 
-light sections
+- light sections
 
-cards
+- cards
 
-documentation surfaces
+- documentation surfaces
 
 text on black or sufficiently dark brand colors
 
