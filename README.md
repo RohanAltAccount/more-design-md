@@ -1,28 +1,4 @@
 
-<a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500"  alt="claude-skills" src="https://cdn.voltagent.dev/awesome-repo/logo.json.svg" />
-</a>
-
-
-<br/>
-<br/>
-
-<div align="center">
-    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>
-    <br />
-    <br />
-
-</div>
-
-<div align="center">
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)
-[![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
-
-</div>
-</div>
 
 # Awesome DESIGN.md
 
