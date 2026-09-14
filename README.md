@@ -5,6 +5,8 @@ My own adaptation of the DESIGN.md library for agents that includes a few more w
 
 ### NEW Additions
 - [**Scale**](design.md/scale/DESIGN.md) - Data labelling and AI infrastructure platform. Responsive and modern with a clean structure.
+- [**Huggingface**](design.md/huggingface/DESIGN.md) - Collaborative hub and hosting service for machine learning and AI. Functional and intuitive.
+
 
 
 ### AI & LLM Platforms
