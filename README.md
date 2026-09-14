@@ -3,6 +3,10 @@ My own adaptation of the DESIGN.md library for agents that includes a few more w
 
 ## Collection
 
+### NEW Additions
+- [**Scale**](design.md/scale/DESIGN.md) - Data labelling and AI infrastructure platform. Responsive and modern with a clean structure.
+
+
 ### AI & LLM Platforms
 
 - [**Claude**](https://getdesign.md/claude/design-md) - Anthropic's AI assistant. Warm terracotta accent, clean editorial layout
@@ -16,7 +20,7 @@ My own adaptation of the DESIGN.md library for agents that includes a few more w
 - [**Runway**](https://getdesign.md/runwayml/design-md) - AI creative-tools platform with an editorial film-festival aesthetic — cinematic dark heroes, paper-white reading bands, single proprietary sans, and pure black pill CTAs.
 - [**Together AI**](https://getdesign.md/together.ai/design-md) - Open-source AI infrastructure. Technical, blueprint-style design
 - [**VoltAgent**](https://getdesign.md/voltagent/design-md) - AI agent framework. Void-black canvas, emerald accent, terminal-native
-- [**xAI**](https://getdesign.md/x.ai/design-md) - Elon Musk's AI lab. Stark monochrome, futuristic minimalism
+- [**xAI**](design.md/x.ai/DESIGN.md) - Elon Musk's AI lab. Stark monochrome, futuristic minimalism
 
 ### Developer Tools & IDEs
 
